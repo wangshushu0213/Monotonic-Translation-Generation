@@ -1,0 +1,4 @@
+entry_point: pipeline_template.PipelineTemplate
+env:
+  conda: /mnt/nas/users/wangshushu.wss/anaconda3#fair
+params:
